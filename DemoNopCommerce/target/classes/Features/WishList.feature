@@ -4,7 +4,7 @@
       When User click on wishlist button
       Then User see success message
       And user see background color green
-
+@smoke
       Scenario: User can click on Wishlist Tab on the top of the page
         When User click on wishlist button
         And User click on wishlist tab

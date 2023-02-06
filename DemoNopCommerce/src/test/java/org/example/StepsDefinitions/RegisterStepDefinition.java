@@ -39,7 +39,7 @@ public class RegisterStepDefinition {
     }
     @And("^User enters valid \"(.*)\"")
     public void EnterEmail(String Email){
-        Register.EnterEmail.sendKeys("test15@example.com");
+        Register.EnterEmail.sendKeys("test16@example.com");
     }
     @And("^User fills \"(.*)\"")
     public void EnterPassword(String password ){

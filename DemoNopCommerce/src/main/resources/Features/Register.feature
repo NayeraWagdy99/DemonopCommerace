@@ -8,7 +8,7 @@ Feature: Register | Users could register with new accounts
     And user enter Date
     And user enter month
     And user enter year
-    And User enters valid "test15@example.com"
+    And User enters valid "test16@example.com"
     And User fills "P@ssw0rd"
     And user fills "P@ssw0rd"
     And User clicks on register button

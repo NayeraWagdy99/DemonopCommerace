@@ -11,7 +11,7 @@
         | laptop      |
         | nike        |
 
-
+@smoke
     Scenario Outline: Search using SKU
       When user search with "<SKU>"
       And  user clicks search button and in the search page

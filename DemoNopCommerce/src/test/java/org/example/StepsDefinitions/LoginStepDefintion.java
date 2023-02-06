@@ -13,7 +13,7 @@ public class LoginStepDefintion {
     }
     @And("^User Enters \"(.*)\"")
     public void EnterValidEmail(String Email ){
-        LP.EnterValidEmail.sendKeys("test14@example.com");
+        LP.EnterValidEmail.sendKeys("test15@example.com");
     }
     @And("^user Enters \"(.*)\"")
     public void EnterValidPassword(String Password){
